@@ -1,3 +1,3 @@
-1)As an user, I want to find all assistants near me, so that I can choose which one to call.
-2)As an assistant, I want to setup my profile page, so that the customers can see my services.
-3)As an user, I want to list the problems I'm facing, so that I can call the appropriate expert.
+1)As a user, I want to find all assistants near me, so that I can choose which one to call.
+2)As a assistant, I want to setup my profile page, so that the customers can see my services.
+3)As a user, I want to list the problems I'm facing, so that I can call the appropriate expert.
