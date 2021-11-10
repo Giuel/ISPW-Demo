@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bce79d16-9108-4e6c-8e83-638adeb65038" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JustIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JustIT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/giulio/rustia/ispw/justit/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/giulio/rustia/ispw/justit/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/hello-view.fxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITLoginPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITLoginPage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITWelcomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITWelcomePage.fxml" afterDir="false" />
     </list>
@@ -16,6 +20,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="20Vio6X6a525M3EyNZ4befGxL9x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,7 +122,7 @@
       <workItem from="1636371951379" duration="4636000" />
       <workItem from="1636450233438" duration="312000" />
       <workItem from="1636490314058" duration="767000" />
-      <workItem from="1636534381764" duration="7398000" />
+      <workItem from="1636534381764" duration="7743000" />
     </task>
     <servers />
   </component>
