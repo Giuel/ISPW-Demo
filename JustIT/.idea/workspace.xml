@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bce79d16-9108-4e6c-8e83-638adeb65038" name="Changes" comment="" />
+    <list default="true" id="bce79d16-9108-4e6c-8e83-638adeb65038" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JustIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JustIT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITLoginPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITLoginPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITWelcomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit/justITWelcomePage.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="20Vio6X6a525M3EyNZ4befGxL9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,15 +29,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../eclipse-workspace/demo" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/it/giulio/rustia/ispw/justit" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it.giulio.rustia.ispw.justit.HelloApplication" />
+  <component name="RunManager" selected="Application.JustITApplication">
+    <configuration name="JustITApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it.giulio.rustia.ispw.justit.JustITApplication" />
       <module name="JustIT" />
       <extension name="coverage">
         <pattern>
@@ -41,13 +53,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in JustIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JustIT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.JustITApplication" />
+        <item itemvalue="JUnit.All in JustIT" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bce79d16-9108-4e6c-8e83-638adeb65038" name="Changes" comment="" />
@@ -61,7 +104,14 @@
       <workItem from="1636223384167" duration="10000" />
       <workItem from="1636281633380" duration="409000" />
       <workItem from="1636282403996" duration="887000" />
-      <workItem from="1636283401987" duration="4959000" />
+      <workItem from="1636283401987" duration="6112000" />
+      <workItem from="1636312692179" duration="1541000" />
+      <workItem from="1636315974816" duration="2000" />
+      <workItem from="1636318394262" duration="156000" />
+      <workItem from="1636371951379" duration="4636000" />
+      <workItem from="1636450233438" duration="312000" />
+      <workItem from="1636490314058" duration="767000" />
+      <workItem from="1636534381764" duration="7398000" />
     </task>
     <servers />
   </component>

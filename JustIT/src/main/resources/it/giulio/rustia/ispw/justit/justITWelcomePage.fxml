@@ -10,7 +10,7 @@
 <?import javafx.scene.text.Text?>
 
 
-<AnchorPane fx:controller="it.giulio.rustia.ispw.justit.HelloController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="480.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane fx:controller="it.giulio.rustia.ispw.justit.UIController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="480.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f81717" height="147.0" layoutY="1.0" stroke="BLACK" strokeType="INSIDE" width="480.0" AnchorPane.topAnchor="0.0" />
       <Text fill="WHITE" layoutX="157.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Just-I.T." textAlignment="CENTER" wrappingWidth="166.32958984375">

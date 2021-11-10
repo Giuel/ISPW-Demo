@@ -114,7 +114,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>it.giulio.rustia.ispw.justit/it.giulio.rustia.ispw.justit.HelloApplication
+                            <mainClass>it.giulio.rustia.ispw.justit/it.giulio.rustia.ispw.justit.JustITApplication
                             </mainClass>
                         </configuration>
                     </execution>
