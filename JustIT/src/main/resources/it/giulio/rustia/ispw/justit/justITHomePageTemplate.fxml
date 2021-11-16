@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.giulio.rustia.ispw.justit.UIController2">
+   <children>
+      <Polygon fill="#f81717" points="-5.7220458984375E-6, 214.40000915527344, 1280.0, 720.0, -5.7220458984375E-6, 720.0" stroke="BLACK" strokeType="INSIDE" />
+      <Pane fx:id="mapsPanel" layoutX="66.0" layoutY="68.0" prefHeight="584.0" prefWidth="1098.0" style="-fx-background-color: white;" AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" />
+      <Pane fx:id="topPanel" layoutX="20.0" layoutY="34.0" prefHeight="45.0" prefWidth="1280.0" style="-fx-background-color: f81717;" AnchorPane.bottomAnchor="675.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button fx:id="profileButton" layoutX="1013.0" layoutY="10.0" mnemonicParsing="false" onAction="#openProfile" prefHeight="24.0" prefWidth="167.0" text="EMAIL" />
+            <TextField fx:id="searchField" layoutX="100.0" layoutY="10.0" prefHeight="30.0" prefWidth="291.0" promptText="Inserisci la tua posizione" />
+            <Label fx:id="titleLabel" layoutX="14.0" layoutY="10.0" text="Just-I.T" textFill="WHITE">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
